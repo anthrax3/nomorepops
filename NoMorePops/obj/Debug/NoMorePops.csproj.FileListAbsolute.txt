@@ -1,0 +1,13 @@
+c:\users\gersy\documents\visual studio 2012\Projects\NoMorePops\NoMorePops\bin\Debug\NoMorePops.exe
+c:\users\gersy\documents\visual studio 2012\Projects\NoMorePops\NoMorePops\bin\Debug\NoMorePops.pdb
+c:\users\gersy\documents\visual studio 2012\Projects\NoMorePops\NoMorePops\obj\Debug\NoMorePops.csprojResolveAssemblyReference.cache
+c:\users\gersy\documents\visual studio 2012\Projects\NoMorePops\NoMorePops\obj\Debug\NoMorePops.FormMain.resources
+c:\users\gersy\documents\visual studio 2012\Projects\NoMorePops\NoMorePops\obj\Debug\NoMorePops.Properties.Resources.resources
+c:\users\gersy\documents\visual studio 2012\Projects\NoMorePops\NoMorePops\obj\Debug\NoMorePops.csproj.GenerateResource.Cache
+c:\users\gersy\documents\visual studio 2012\Projects\NoMorePops\NoMorePops\obj\Debug\NoMorePops.exe
+c:\users\gersy\documents\visual studio 2012\Projects\NoMorePops\NoMorePops\obj\Debug\NoMorePops.pdb
+C:\Users\Gersy\documents\visual studio 2012\Projects\NoMorePops\NoMorePops\obj\Debug\NoMorePops.FrmWatcher.resources
+C:\Users\Gersy\documents\visual studio 2012\Projects\NoMorePops\NoMorePops\obj\Debug\NoMorePops.FrmRaw.resources
+C:\Users\Gersy\documents\visual studio 2012\Projects\NoMorePops\NoMorePops\obj\Debug\NoMorePops.FormLoadRecents.resources
+C:\Users\Gersy\documents\visual studio 2012\Projects\NoMorePops\NoMorePops\bin\Debug\NoMorePops.exe.config
+C:\Users\Gersy\documents\visual studio 2012\Projects\NoMorePops\NoMorePops\obj\Debug\NoMorePops.FormAbout.resources

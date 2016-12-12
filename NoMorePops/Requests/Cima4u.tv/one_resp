@@ -1,0 +1,18 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Tue, 01 Nov 2016 18:11:04 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Set-Cookie: __cfduid=d6efffa9d6a034d81f8f557074d06f8bd1478023864; expires=Wed, 01-Nov-17 18:11:04 GMT; path=/; domain=.cima4u.tv; HttpOnly
+Expires: Tue, 01 Nov 2016 18:11:05 GMT
+Cache-Control: max-age=1
+Link: <http://cima4u.tv/wp-json/>; rel="https://api.w.org/"
+Location: http://cima4u.tv/old/%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9+%D9%81%D9%8A%D9%84%D9%85+Limitless+2011+%D9%85%D8%AA%D8%B1%D8%AC%D9%85-artid26304.html
+X-Cache-Status: MISS
+X-Server-Powered-By: Engintron
+Pragma: public
+Cache-Control: public
+Vary: Accept-Encoding
+Server: cloudflare-nginx
+CF-RAY: 2fb14e9e738e4197-CAI
+Content-Length: 0
+

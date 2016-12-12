@@ -1,0 +1,9 @@
+GET /search?q=lmitless+%D9%85%D8%AA%D8%B1%D8%AC%D9%85&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr HTTP/1.1
+Host: www.google.com.eg
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:49.0) Gecko/20100101 Firefox/49.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Cookie: NID=89=WHphb8deqCxp7pUOZVR98wAaPl-Wg7DdNeo8AF9Qgl5oan2I38fpP-fFYh-TDsBP_n3Hf_RJKwo3PcladpadEB09L2dMdjSkPBH9g35Q8e7V4RL9jG8lfY85vOSwqCJ0; OGPC=5061821-4:; GZ=Z=1; OGP=-5061821:
+Connection: close
+Upgrade-Insecure-Requests: 1
+

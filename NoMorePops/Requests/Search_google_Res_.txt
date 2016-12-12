@@ -1,0 +1,15 @@
+HTTP/1.1 302 Found
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Location: https://www.google.com.eg/search?q=lmitless+%D9%85%D8%AA%D8%B1%D8%AC%D9%85&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=7ccYWMHSAtPA8gfv-YlI
+Content-Length: 360
+Date: Tue, 01 Nov 2016 16:50:53 GMT
+Alt-Svc: quic=":443"; ma=2592000; v="36,35,34"
+Connection: close
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="https://www.google.com.eg/search?q=lmitless+%D9%85%D8%AA%D8%B1%D8%AC%D9%85&amp;ie=utf-8&amp;oe=utf-8&amp;client=firefox-b&amp;gfe_rd=cr&amp;ei=7ccYWMHSAtPA8gfv-YlI">here</A>.
+</BODY></HTML>
